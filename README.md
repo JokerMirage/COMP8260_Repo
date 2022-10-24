@@ -3,4 +3,10 @@ Team members:
 Si Chen u7435629  
 Xuan He (Godfry) u7382548  
 Steven Liu u7433891  
-Natasha Pegler u7447030  
+Natasha Pegler u7447030
+
+Please note that after trying out Github as our project repository, we found it clunky and difficult to use for collaboration.
+Github is designed for software development, which is typically very fragmented.
+Working collaboratively on larger files (word documents, etc) created many collisions.
+We switched to using a mix of Discord and Google Drive for our work.
+We have now uploaded all revisions of our project documents as well as some of our Discord conversations here.
