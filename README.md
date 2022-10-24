@@ -1,9 +1,9 @@
 This is the group repository for Team Microsoft Teams (COMP8260, workshop 2)  
 Team members:  
-Si Chen u7435629  
-Xuan He (Godfry) u7382548  
-Steven Liu u7433891  
-Natasha Pegler u7447030
+Si Chen u7435629 (SlearningCS)
+Xuan He (Godfry) u7382548 (Jokermirage)
+Steven Liu u7433891 (SakuraKiritok)
+Natasha Pegler u7447030 (twelfthrootoftwo)
 
 Please note that after trying out Github as our project repository, we found it clunky and difficult to use for collaboration.
 Github is designed for software development, which is typically very fragmented.
