@@ -1,6 +1,6 @@
 This is the group repository for Team Microsoft Teams (COMP8260, workshop 2)  
 Team members:  
-Si Chen u7435629 (SlearningCS)
+Si Chen u7435629 (CSlearningCS)
 
 Xuan He (Godfry) u7382548 (Jokermirage)
 
